@@ -1,11 +1,19 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a WordPress themes team contributor sponsored by Rank Math.
+- ⚡ I am the founder of WPEntire and Co-Founder of TemplateSell.
+- 🌱 I’m currently learning full site editing and block themes. 
+- 💬 Ask me about WordPress themes development and theme guidelines.
+- 📫 How to reach me: wpentire@gmail.com
+- ⚡ Fun fact: Nothing 😄
+- 😄 Pronouns: He/His
+
 <!--
 **kafleg/kafleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ....
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
