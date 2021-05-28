@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a WordPress themes team contributor sponsored by Rank Math.
-- ⚡ I am the founder of WPEntire and Co-Founder of TemplateSell.
-- 🌱 I’m currently learning full site editing and block themes. 
+- 🔭 I’m currently working as a WordPress themes team contributor sponsored by [Rank Math](https://www.rankmath.com/).
+- ⚡ I am the founder of [WPEntire](https://www.wpentire.com) and Co-Founder of [TemplateSell](https://www.templatesell.com).
+- 🌱 I’m currently learning [full site editing](https://www.kafleg.com.np/what-is-full-site-editing/) and block themes. 
 - 💬 Ask me about WordPress themes development and theme guidelines.
 - 📫 How to reach me: wpentire@gmail.com
 - ⚡ Fun fact: Nothing 😄
