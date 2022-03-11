@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://www.kafleg.com.np" target="_blank"> Ganga Kafle (Sandilya) </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working as a WordPress themes team contributor sponsored by [Rank Math](https://www.rankmath.com/).
+- 🔭 I’m currently working as a WordPress themes team contributor sponsored by [Rank Math](https://rankmath.com/?ref=wpentire).
 - ⚡ I am the founder of [WPEntire](https://www.wpentire.com) and Co-Founder of [TemplateSell](https://www.templatesell.com).
 - 🌱 I’m currently learning [full site editing](https://www.kafleg.com.np/what-is-full-site-editing/) and block themes. 
 - 💬 Ask me about WordPress themes development and theme guidelines.
