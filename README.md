@@ -12,7 +12,7 @@
 
 ### Stay connected 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kafleg/) 
-[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=000&logo=twitter&logoColor=fff)](https://twitter.com/sandilyakafle) 
+[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=000&logo=twitter&logoColor=fff)](https://twitter.com/TheKafleG) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kafleg) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kafle_g/)
 [![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:wpentire@gmail.com) 
